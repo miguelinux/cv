@@ -116,11 +116,23 @@
                     \hfill \,}}
 
 % Finally, give us PDF bookmarks
-\usepackage{color,hyperref}
+\usepackage{color}
+\usepackage[pdftex]{hyperref}
 \definecolor{darkblue}{rgb}{0.0,0.0,0.3}
 \hypersetup{colorlinks,breaklinks,
             linkcolor=darkblue,urlcolor=darkblue,
-            anchorcolor=darkblue,citecolor=darkblue}
+            anchorcolor=darkblue,citecolor=darkblue,
+            pdfauthor={Miguel Bernal Marin},
+            pdftitle={Miguelinux CV},
+	    }
+% https://tex.stackexchange.com/questions/26529/how-can-i-generate-pdf-metadata-from-latex
+%\usepackage[pdftex,
+%            pdfauthor={Your Name},
+%            pdftitle={The Title},
+%            pdfsubject={The Subject},
+%            pdfkeywords={Some Keywords},
+%            pdfproducer={Latex with hyperref, or other system},
+%            pdfcreator={pdflatex, or other tool}]{hyperref}
 
 %%%%%%%%%%%%%%%%%%%%%%%% End Document Setup %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
