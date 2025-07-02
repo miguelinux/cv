@@ -1,0 +1,256 @@
+% ex: ts=2 sw=2 sts=2 et filetype=tex
+% SPDX-License-Identifier: CC-BY-SA-4.0
+\input{cv/header}
+%%%%%%%%%%%%%%%%%%%%%%%%% Begin CV Document %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+\makeheading{Miguel Bernal Marin}
+
+\section{Contacto}
+%
+% NOTE: Mind where the & separators and \\ breaks are in the following
+%       table.
+%
+% ALSO: \rcollength is the width of the right column of the table
+%       (adjust it to your liking; default is 1.85in).
+%
+\newlength{\rcollength}\setlength{\rcollength}{2.85in}%
+%
+\begin{tabular}[t]{@{}p{\textwidth-\rcollength}p{\rcollength}}
+  \textit{Teléfono:} \input{cv/telefono} &
+  \textit{E-mail:} \email{miguel.bernal.marin@gmail.com}\\
+Telegram: \href{https://t.me/miguelinux}{@miguelinux} &
+  \href{https://scholar.google.com/citations?user=-9GezEIAAAAJ\&hl=es}
+  {Google Scholar/user=-9GezEIAAAAJ} \\
+Zapopan, Jalisco, México  &
+	\href{https://github.com/miguelinux}{GitHub.com/miguelinux} \\
+   & \href{https://www.linkedin.com/in/miguelinux/}
+	{Linkedin.com/in/miguelinux} \\
+\end{tabular}
+%\section{Nacionalidad}
+%
+%Mexicana
+
+\section{Intereses Personales}
+%
+Linux, sysadmin, devops, 
+programación de computadoras,
+educación,
+visión por computadora,
+robótica,
+robots móviles,
+realidad virtual,
+diseño de sistemas.
+
+
+\section{Educación}
+%
+\href{https://unidad.gdl.cinvestav.mx/}{\textbf{Centro de Investigación y Estudios Avanzados del I.P.N }}(Cinvestav \emph{Unidad Guadalajara}),
+Zapopan, Jalisco, México
+
+\begin{outerlist}
+\item[] Doctorado en Ciencias en Ingeniería Eléctrica, \hfill{Febrero 2012}
+        \begin{innerlist}
+        \item Tema de tesis: \emph{Técnicas geométricas y aprendizaje automático para la
+              reconstrucción 3D y navegación robótica}
+        \item Asesor:
+              \href{https://unidad.gdl.cinvestav.mx/investigadores/investigador.php?inv=11}
+                   {Prof. Dr. Eduardo Bayro~Corrochano}
+        \item Área de Estudio: Visión por computadora \& robots móviles
+        \end{innerlist}
+
+\item[] Maestría en Ciencias en Ingeniería Eléctrica,\hfill{Agosto 2007}
+        \begin{innerlist}
+        \item Tema de tesis: \emph{Mapas tridimencionales para navegación
+              robótica}
+        \item Asesor:
+              \href{https://unidad.gdl.cinvestav.mx/investigadores/investigador.php?inv=11}
+                   {Prof. Dr. Eduardo Bayro~Corrochano}
+        \item Especialidad: \emph{Ciencias Computacionales}
+        \item Área de Estudio: Visión por computadora \& robots móviles
+        \end{innerlist}
+\end{outerlist}
+
+\blankline
+
+\href{http://www.udg.mx/}{\textbf{Universidad de Guadalajara}},
+Guadalajara, Jalisco, México
+
+\begin{outerlist}
+\item[] \href{http://www.cucei.udg.mx/es/oferta-academica/licenciaturas/licenciatura-en-matematicas }
+	{Licenciatura en Matemáticas},
+\hfill{Mayo 2002}
+        \begin{innerlist}
+        \item Especialización en computación matemática
+        \end{innerlist}
+\end{outerlist}
+
+\section{Estancias Extranjero}
+%
+\textbf{Fraunhofer IITB},
+Karlsruhe, Alemania
+\begin{outerlist}
+\item[] \textit{Estancia de Investigación}%
+    \hfill \textbf{Mayo 2008 a Noviembre 2008}
+    \begin{innerlist}
+        \item Tema: Uso de álgebras geométricas y aprendizaje automático
+              en un robot móvil
+        \item Supervisor: Dr.-Ing. Helge-Bj{\"o}rn Kuntze
+    \end{innerlist}
+\end{outerlist}
+
+
+\section{Docencia}
+\input{cv/docencia}
+\blankline
+
+\section{Patentes}
+\input{cv/patentes}
+\blankline
+
+\section{Publicación Revistas}
+\input{cv/revistas}
+\blankline
+
+\section{Capítulos de libros}
+\input{cv/libros-capitulos}
+
+\section{Publicación Conferencias}
+\input{cv/conferencias}
+
+\section{Publicaciones Internas de Intel}
+\input{cv/conferencias-intel}
+\blankline
+
+\section{Experiencia Profesional}
+%
+Intel Tecnología de México,
+%\textsuperscript{\textregistered}
+Zapopan, Jalisco, México
+\begin{outerlist}
+\item[] \textit{Ingeniero de desarrollo de sistemas operativos}%
+    \hfill \textbf{Agosto 2021 - Actual}
+    \begin{innerlist}
+      \item Habilitador de las características de los procesadores Intel en
+	      la distribución de Linux Debian
+      \item Portar herramientas internas y externas a Debian Linux
+    \end{innerlist}
+\item[] \textit{Ingeniero de Software}%
+    \hfill \textbf{Agosto 2014 - Agosto 2021}
+    \begin{innerlist}
+      \item Desarrollador de Linux en el proyecto de
+	      \href{https://www.clearlinux.org/}{Clear Linux}
+      \item Mantenedor del paquete del kernel de Linux en Clear Linux
+    \end{innerlist}
+\item[] \textit{Ingeniero de Gráficos por Software}%
+    \hfill \textbf{Agosto 2011 a Agosto 2014}
+    \begin{innerlist}
+        \item Desarrollador y Validador de pruebas del API de
+           Microsoft\textsuperscript{\textregistered}
+           DirectX\textsuperscript{\textregistered}.
+        \item Validador de gráficos en Pre-silicio usando Fulsim, HAS 2.0 \& 3.0
+	   sobre una arquitectura Linux Xen
+	\item Validador de gráficos en Android en arquitectura Intel
+    \end{innerlist}
+\end{outerlist}
+
+\blankline
+
+Promotora Atletica Speedy, Guadalajara, Jalisco, México
+\begin{outerlist}
+\item[] \textit{Webmaster}%
+    \hfill \textbf{Febrero 2003 - Agosto 2004 }
+    \begin{innerlist}
+        \item Desarrollo del sitio http://www.promospeedy.com
+    \end{innerlist}
+\end{outerlist}
+
+\blankline
+
+Sistemas Integrales a la Medida, Zapopan, Jalisco, México
+\begin{outerlist}
+\item[] \textit{Webmaster }%
+    \hfill \textbf{Septiembre 1999 - Diciembre 2002 }
+    \begin{innerlist}
+        \item Desarrollador de sitios web
+              (http://www.radaenterprises.com) \\
+              (http://www.tocomarketing.com)
+        %\item Desarrollador de Base de Datos
+        %\item Desarrollo del sitio de la empresa Rada Enterprice
+              %(http://www.radaenterprises.com)
+        %\item Desarrollo del sitio de la empresa Toco Marketing
+              %(http://www.tocomarketing.com)
+    \end{innerlist}
+\end{outerlist}
+
+\blankline
+
+\section{Expositor}
+\input{cv/platicas}
+
+\section{Contribuciones al open source}
+\input{cv/contribuciones}
+
+\section{Capacitación}
+\input{cv/cursos}
+\blankline
+
+\section{Concursos congresos} \begin{loneinnerlist}
+  %\item \hfill{\emph{}}
+  \item \emph{Iberoamerican Congress on Pattern Recognition} \hfill{\emph{2009}}
+  \item \emph{IEEE/RSJ International Conference on Intelligent RObots
+        and Systems}, \hfill{\emph{2009}}
+  \item 1\textsuperscript{er} Festival GNU/Linux y software libre
+        \hfill{\emph{2002}}
+  \item Días de Software Libre \hfill{\emph{2002}}
+  \item \emph{XXXIV} Congreso Nacional de la  Sociedad Matemática
+        Mexicana \hfill{\emph{2001}}
+  \item \emph{XXXIII} Congreso Nacional de la  Sociedad Matemática
+        Mexicana \hfill{\emph{2000}}
+  \item \emph{XXXII} Congreso Nacional de la  Sociedad Matemática
+        Mexicana \hfill{\emph{1999}}
+  \item Concurso por Equipos de Matemáticas \hfill{\emph{1997}}
+  \item Olimpiada de Matemáticas \hfill{\emph{1997}}
+  \item 2\textsuperscript{do} Concurso Regional de Matemáticas por Equipos
+        \hfill{\emph{1997}}
+\end{loneinnerlist}
+
+\blankline
+
+\section{Idiomas}
+%
+Ingles \textit{Nivel Medio Alto}\\%
+Aleman \textit{Nivel Básico}%
+
+\section{Habilidades Técnicas}
+%
+Amplia experiencia en hardware y software de computadoras, redes
+informáticas, tecnologías de la información y Linux
+
+\blankline
+
+Programación: C, C$+$$+$, Python, Java, JavaScript, Pascal, PHP, ASP, UNIX
+        shell scripting, GNU make, SQL.
+
+\blankline
+
+Tecnologías de la Información: Redes (UDP, TCP, ARP, DNS),
+Servicios (HTTP, SQL, POP, IMAP, SMTP)
+
+\blankline
+
+Aplicaciones Computacionales: \TeX{} (\LaTeX{}, B\textsc{ib}\TeX{}),
+        aplicaciones comunes de computación (para las plataformas Windows,
+        Mac OS X, y Linux), Vim
+
+\blankline
+
+Sistemas Operativos: familia de Microsoft Windows, Apple OS X, Linux, FreeBSD,
+        Solaris, y otras variantes de Unix.
+
+
+
+\end{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% End CV Document %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{cv/footer}
