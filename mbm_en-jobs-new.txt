@@ -1,0 +1,101 @@
+Miguel Bernal Marin
+
++52 33 0000 0000 | miguel.bernal.marin@gmail.com | linkedin.com/in/miguelinux | github.com/miguelinux
+
+OBJECTIVE
+
+Senior Linux Software Engineer
+
+SUMMARY
+• Uno
+• dos
+• tres
+
+EXPERIENCE
+INTEL
+OS Development Engineer, August 2021 to Present
+• INTEL
+•
+
+August 2011 to July 2025
+August 2011 to July 2025
+
+OS Development Engineer, August 2021 to Present
+
+• dos
+• tres
+Software Engineer, August 2021 to Present
+• Uno
+• dos
+• tres
+
+SUMMARY
+Passionate AI/ML engineer with a strong background in deep learning, computer vision, and natural language processing.
+Skilled in Python, TensorFlow, PyTorch, and various ML libraries. Excellent problem-solving, research, and collaboration
+abilities. Seeking a challenging role to develop cutting-edge AI solutions.
+
+TECHNICAL SKILLS
+Programming Languages: Python, C++, SQL, MATLAB
+Deep Learning Frameworks: TensorFlow, PyTorch, Keras, Caffe
+Libraries & Tools: NumPy, Pandas, Scikit-learn, OpenCV, NLTK, Git, Docker
+
+PROJECTS
+Image Captioning System
+Deep Learning Project
+
+Jan 2023 – Present
+Python, TensorFlow, OpenCV
+
+• Developed an end-to-end system for generating descriptive captions for images
+• Utilized CNN and LSTM models for image feature extraction and caption generation
+• Achieved state-of-the-art performance on the COCO dataset
+
+Sentiment Analysis API
+Natural Language Processing
+
+Aug 2022 – Dec 2022
+Python, Flask, NLTK, Hugging Face
+
+• Built a RESTful API for sentiment analysis of text data
+• Implemented pre-trained transformer models using Hugging Face
+• Deployed the API on a cloud platform for easy integration
+
+EXPERIENCE
+AI Research Intern
+DeepMind
+
+June 2022 – Aug 2022
+London, UK
+
+• Conducted research on reinforcement learning algorithms for robotics
+• Implemented and evaluated deep RL models using PyTorch and RLlib
+• Presented ﬁndings at weekly research meetings
+
+Machine Learning Engineer
+Acme AI Solutions
+
+Jan 2021 – May 2022
+San Francisco, CA
+
+• Developed and deployed machine learning models for various industries
+• Optimized model performance and ensured data quality
+• Collaborated with cross-functional teams to deliver AI solutions
+
+EDUCATION
+Stanford University
+M.S. in Computer Science, Artiﬁcial Intelligence
+
+Stanford, CA
+Aug 2019 – May 2021
+
+University of California, Berkeley
+B.S. in Electrical Engineering and Computer Science
+
+Berkeley, CA
+Aug 2015 – May 2019
+
+CERTIFICATIONS
+• AWS Certiﬁed Machine Learning - Specialty
+• TensorFlow Developer Certiﬁcate
+
+
