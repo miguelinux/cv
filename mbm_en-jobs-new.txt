@@ -1,15 +1,16 @@
 Miguel Bernal Marin
 
-+52 33 0000 0000 | miguel.bernal.marin@gmail.com | linkedin.com/in/miguelinux | github.com/miguelinux
++52 33 0000 0000 | miguel.bernal.marin@gmail.com
+     | linkedin.com/in/miguelinux | github.com/miguelinux
 
 OBJECTIVE
 
-Senior Linux Software Engineer
+Linux Software Engineer
 
 SUMMARY
-• Uno
-• dos
-• tres
+* Linux skills
+* Strong experience in program languajes as C, C++, Python, Java
+* Open Source contributor on differents projects as Linux kernel, systemd
 
 EXPERIENCE
 INTEL
