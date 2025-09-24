@@ -1,0 +1,71 @@
+﻿Miguel Bernal Marin
+                                                     
++52 00 0000 0000
+miguel.bernal.marin@gmail.com
+https://www.linkedin.com/in/miguelinux/
+ https://github.com/miguelinux/
+                                                                                                                                                                                                                                                                                                                                             OBJETIVO
+
+Ingeniero de Software
+
+RESUMEN
+
+• Profesional con experiencia de más de 15 años en sistemas operativos Linux en el área de administración de  sistemas, programación (C/C++, Python, Java), desarrollo Web (HTML, CSS, JavaScript), automatización y “scripting” (DevOps), empaquetamiento de proyectos (RPM, DEB)  y resolución de problemas informáticos.
+• Conocimientos en el manejo y administración de contenedores (Docker, Podman, LXC) y maquinas virtuales (Qemu/KVM), uso de diferentes distribuidores de nube comercial (AWS, Google Cloud, Azure).
+• Experiencia en contribución utilizando GIT en proyectos de software libre y abierto, compilación y modificación del kernel de Linux, uso de varias distribuciones de Linux, automatización de procesos de software.
+• Habilidad para la creación y divulgación del conocimiento mediante cursos y presentaciones a nivel nacional e internacional, además de capacitar y orientar sobre temas tecnológicos a personal que lo requiera.
+• Capacidad para gestionar personas en un proyectos de software utilizando las ultimas tecnologías de nube.
+• Miembro del Sistema Nacional de Investigadoras e Investigadores (SNII) con varios artículos publicados y  patentes. Profesor de licenciatura y maestría en diferentes universidades.
+
+
+EXPERIENCIA PROFESIONAL
+Intel, Zapopan, México	2011 - 2025
+Departamento de Ingeniería de sistemas Linux
+Ingeniero de desarrollo de sistemas operativos, 2021 – 2025
+Habilitador de características de procesadores Intel en la distribución Debian.
+
+    • Más de 18 contribuciones al paquete del kernel de Linux de Debian
+    • Habilitación de 3 herramientas de validación interna para correr en Debian
+    • Desarrollo de aplicación en Python que aceleraba un 50% en tiempo y automatizaba la configuración de estaciones de prueba.
+    • Desarrollo de scripts de Bash para la automatización de la configuración de contenedores para el desarrollo de proyectos y pruebas.
+    • Automatización de la creación de paquetes para CentOS 8 utilizando GitHub Actions.
+Ingeniero de software, 2014 – 2021 
+Líder del equipo de desarrollo y mantenimiento del paquete del kernel de Linux de la distribución de Clear Linux.
+
+    • Automatización total (sin intervención humana) de la actualización de 6 paquetes de kernel de la distribución de Clear Linux.
+    • Capacitación y crecimiento de mi equipo en conocimientos de Linux
+    • Mantenedor y habilitador de varios paquetes de la distribución de Clear Linux
+Ingeniero de software de gráficos, 2011 – 2014 
+Desarrollador y validador de pruebas para las tarjetas gráficas de Intel utilizando virtualización y plataformas de desarrollo. 
+
+    • Automatización de la validación de gráficos utilizando “scripts” de Linux, reduciendo el esfuerzo de trabajo en un 70%.
+    • Validador de la gráficas de Intel en plataformas Android.
+    • Desarrollador y validador usando la API de pruebas de Microsoft DirectX 9.
+FORMACIÓN ACADÉMICA
+
+Doctorado en Ciencias en Ingeniería Eléctrica	2012
+Área de estudio: Robótica  y visión por computadora.
+Estancia de Investigación: Instituto Fraunhofer IITB, Karlsruhe, Alemania, 2008
+Centro de Investigación y de Estudios Avanzados del IPN (CINVESTAV)
+
+Maestría en Ciencias en Ingeniería Eléctrica	2007
+Área de estudio: Robótica  y visión por computadora.
+Centro de Investigación y de Estudios Avanzados del IPN (CINVESTAV)
+
+Licenciatura en Matemáticas	2002
+Especialización: Matemáticas computacionales
+Universidad de Guadalajara
+
+
+IDIOMAS
+
+Inglés: Fluido
+Alemán: Básico
+
+INFORMACIÓN ADICIONAL 
+
+    • Charlas y Platicas en diferentes congresos/reuniones: Linux Cabal, KCD, CCOSS, FSL, PosaDev, GUGLAG, Pythonistas GDL, U de G, SSJ, Bsides Guadalajara. 
+    • Contribuciones de código abierto: Linux kernel, systemd, Paquete del kernel de Linux de Debian, ndctl, Intel QPL, varios paquetes de Clear Linux incluyendo el paquete de kernel de Linux.
+    • Publicaciones: Artículos en revistas  y congresos especializados, capítulos de libro.
+    • Asociaciones Profesionales: Miembro de la IEEE.
+    • Patentes en estados unidos: 10,609,205 B2, 10,938,977 B2, 11,516,336 B2.
