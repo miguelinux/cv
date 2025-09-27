@@ -51,6 +51,7 @@ CentOS packages for testing.
 • Wrote Bash scripts to automate container configuration for project
   development and testing.
 • Build internal CentOS packages and automating them using GitHub Actions.
+
 Software Engineer, 2014 – 2021
 Leader of the Linux kernel package development and maintenance team from
 the Clear Linux distribution.
@@ -60,9 +61,10 @@ the Clear Linux distribution.
 • Trained and developed my team's Linux knowledge.
 • Maintained and enabled several packages for the Clear Linux distribution.
 • Contribute to open source projects for include Clear Linux OS structure.
+
 Graphics Software Engineer, 2011 – 2014
 Developer and tester for Intel graphics cards using virtualization and
-Microsoft WHQL
+Microsoft WHQL.
 
 • Automated graphics validation using Linux scripts, reducing workload by 70%.
 • Intel graphics cards tester on Android platforms.
