@@ -1,5 +1,5 @@
 ﻿Miguel Bernal Marin
-                                                     
+
 +52 00 0000 0000
 miguel.bernal.marin@gmail.com
 https://www.linkedin.com/in/miguelinux/
@@ -44,29 +44,29 @@ OS Development Engineer, 2021 – 2025
 Enabling the new Intel key features on Debian Linux kernel package and create
 CentOS packages for testing.
 
-  • 18+ contribution to the Debian Linux kernel package.
-  • Enabling 3 internal validation tools to be able to run on Debian.
-  • Developed a Python application that accelerated deployment time by 50%
-    by automatically configuring the system under test (SUT) .
-  • Wrote Bash scripts to automate container configuration for project
-    development and testing.
-  • Build internal CentOS packages and automating them using GitHub Actions.
+• 18+ contribution to the Debian Linux kernel package.
+• Enabling 3 internal validation tools to be able to run on Debian.
+• Developed a Python application that accelerated deployment time by 50%
+  by automatically configuring the system under test (SUT) .
+• Wrote Bash scripts to automate container configuration for project
+  development and testing.
+• Build internal CentOS packages and automating them using GitHub Actions.
 Software Engineer, 2014 – 2021
 Leader of the Linux kernel package development and maintenance team from
 the Clear Linux distribution.
 
-  • Fully automated (without human intervention) the update of six
-    kernel packages for the Clear Linux distribution.
-  • Trained and developed my team's Linux knowledge.
-  • Maintained and enabled several packages for the Clear Linux distribution.
-  • Contribute to open source projects for include Clear Linux OS structure.
+• Fully automated (without human intervention) the update of six
+  kernel packages for the Clear Linux distribution.
+• Trained and developed my team's Linux knowledge.
+• Maintained and enabled several packages for the Clear Linux distribution.
+• Contribute to open source projects for include Clear Linux OS structure.
 Graphics Software Engineer, 2011 – 2014
 Developer and tester for Intel graphics cards using virtualization and
 Microsoft WHQL
 
-  • Automated graphics validation using Linux scripts, reducing workload by 70%.
-  • Intel graphics cards tester on Android platforms.
-  • Use the Microsoft DirectX 9 testing API and the WHQL to develop and testing.
+• Automated graphics validation using Linux scripts, reducing workload by 70%.
+• Intel graphics cards tester on Android platforms.
+• Use the Microsoft DirectX 9 testing API and the WHQL to develop and testing.
 
 
 EDUCATION
@@ -81,7 +81,7 @@ Study area: Robotics and computer vision.
 Research and Advanced Study Center from IPN (CINVESTAV)
 
 Bachelor’s Degree in Mathematics        2002
-Specialization: Math computing 
+Specialization: Math computing
 Guadalajara’s University
 
 
@@ -92,16 +92,16 @@ English: Fluent
 German: Basic
 
 
-ADDITIONAL INFORMATION 
+ADDITIONAL INFORMATION
 
-  • Talks and presentations at various conferences/meetings as: Linux Cabal,
-    KCD, CCOSS, FSL, PosaDev, GUGLAG, Pythonistas GDL, U de G, SSJ, Bsides
-    Guadalajara.
-  • Open source contributions: Linux kernel, systemd, Debian Linux kernel
-    package, ndctl, Intel QPL, various Clear Linux packages, including the
-    Linux kernel package.
-  • Publications: Articles in specialized journals and conferences,
-    book chapters.
-  • Professional Associations: Member of the IEEE.
-  • US patents: 10,609,205 B2, 10,938,977 B2, 11,516,336 B2.
+• Talks and presentations at various conferences/meetings as: Linux Cabal,
+  KCD, CCOSS, FSL, PosaDev, GUGLAG, Pythonistas GDL, U de G, SSJ, Bsides
+  Guadalajara.
+• Open source contributions: Linux kernel, systemd, Debian Linux kernel
+  package, ndctl, Intel QPL, various Clear Linux packages, including the
+  Linux kernel package.
+• Publications: Articles in specialized journals and conferences,
+  book chapters.
+• Professional Associations: Member of the IEEE.
+• US patents: 10,609,205 B2, 10,938,977 B2, 11,516,336 B2.
 
