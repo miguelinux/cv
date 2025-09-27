@@ -1,5 +1,6 @@
 # My ignores
 cv/phone.tex
+.~lock*
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
