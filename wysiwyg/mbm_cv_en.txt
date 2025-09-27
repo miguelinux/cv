@@ -3,59 +3,84 @@
 +52 00 0000 0000
 miguel.bernal.marin@gmail.com
 https://www.linkedin.com/in/miguelinux/
- https://github.com/miguelinux/
-                                                                                                                                                                                                                                                                                                                                             OBJECTIVE
+https://github.com/miguelinux/
 
-Software Engineer
+OBJECTIVE
+
+Senior Software Engineer
 
 SUMMARY
 
-• Highly skilled professional with a proven track record of over 15 years in Linux system administration and engineering, including programming (C/C++, Python, Java), web development (HTML, CSS, JavaScript), automation and scripting (DevOps), project packaging (RPM, DEB), and IT troubleshooting.
-• Knowledge of container management (Docker, Podman, LXC) and virtual machines (Qemu/KVM), and use of various commercial cloud providers (AWS, Google Cloud, Azure).
-• Experience contributing using GIT to free and open source software projects, compiling and modifying the Linux kernel, using various Linux distributions, and automating software processes.
-• Expertise in knowledge dissemination through national and international courses and presentations, with a focus on mentoring and training technical personnel.
+• Highly skilled professional with a proven track record of over 15 years
+  in Linux system administration and engineering, including programming
+  (C/C++, Python, Java), web development (HTML, CSS, JavaScript), automation
+  and scripting (DevOps), project packaging (RPM, DEB), and IT troubleshooting.
+
+• Knowledge of container management (Docker, Podman, LXC) and virtual
+  machines (Qemu/KVM), and use of various commercial cloud providers
+  (AWS, Google Cloud, Azure).
+
+• Experience contributing using GIT to free and open source software
+  projects, compiling and modifying the Linux kernel, using various Linux
+  distributions, and automating software processes.
+
+• Shared expertise across national and international audiences by teaching
+  specialized courses and presentation, with a focus on mentoring and
+  training technical staff and the general public.
+
 • Skilled in managing software projects with the latest cloud technologies.
-• Member of the National System of Researchers (SNII) with several published articles and patents. Professor of undergraduate and graduate programs at various universities.
+
+• Member of the Mexican National System of Researchers (SNII) with several
+  published articles and patents. Professor of undergraduate and graduate
+  programs at various universities.
+
 
 EXPERIENCE
 
-Intel, Zapopan, Mexico	2011 - 2025
+Intel, Zapopan, Mexico						2011 - 2025
 Linux OS Engineering Area
+
 OS Development Engineer, 2021 – 2025
-Enabling the new Intel key features on Debian Linux kernel package.
+Enabling the new Intel key features on Debian Linux kernel package and create
+CentOS packages for testing.
 
-    • 18+ contribution to the Debian Linux kernel package.
-    • Enabling 3 internal validation tools to be able to run on Debian.
-    • Developed a Python application that accelerated deployment time by 50% which automated the test station configuration.
-    • Wrote Bash scripts to automate container configuration for project development and testing.
-    • Build internal CentOS 8 packages and automating them using GitHub Actions.
+  • 18+ contribution to the Debian Linux kernel package.
+  • Enabling 3 internal validation tools to be able to run on Debian.
+  • Developed a Python application that accelerated deployment time by 50%
+    by automatically configuring the system under test (SUT) .
+  • Wrote Bash scripts to automate container configuration for project
+    development and testing.
+  • Build internal CentOS packages and automating them using GitHub Actions.
 Software Engineer, 2014 – 2021
-Leader of the Linux kernel package development and maintenance team from the Clear Linux distribution.
+Leader of the Linux kernel package development and maintenance team from
+the Clear Linux distribution.
 
-    • Fully automated (without human intervention) the update of six kernel packages for the Clear Linux distribution.
-    • Trained and developed my team's Linux knowledge.
-    • Maintained and enabled several packages for the Clear Linux distribution.
+  • Fully automated (without human intervention) the update of six
+    kernel packages for the Clear Linux distribution.
+  • Trained and developed my team's Linux knowledge.
+  • Maintained and enabled several packages for the Clear Linux distribution.
+  • Contribute to open source projects for include Clear Linux OS structure.
 Graphics Software Engineer, 2011 – 2014
-Developer and tester for Intel graphics cards using virtualization and development platforms.
+Developer and tester for Intel graphics cards using virtualisation and
+Microsoft WHQL
 
-• Automated graphics validation using Linux scripts, reducing workload by 70%.
-• Intel graphics cards tester on Android platforms.
-• Use the Microsoft DirectX 9 testing API to develop and testing.
+  • Automated graphics validation using Linux scripts, reducing workload by 70%.
+  • Intel graphics cards tester on Android platforms.
+  • Use the Microsoft DirectX 9 testing API and the WHQL to develop and testing.
 
 
 EDUCATION
 
-PhD. in Electric Engineering	2012
+PhD. in Electric Engineering            2012
 Study area: Robotics and computer vision.
 Research stay: Fraunhofer IITB Institute, Karlsruhe, Germany, 2008
 Research and Advanced Study Center from IPN (CINVESTAV)
 
-M.Sc. in Electric Engineering	2007
+M.Sc. in Electric Engineering           2007
 Study area: Robotics and computer vision.
 Research and Advanced Study Center from IPN (CINVESTAV)
 
-
-Bachelor’s Degree in Mathematics	2002
+Bachelor’s Degree in Mathematics        2002
 Specialization: Math computing 
 Guadalajara’s University
 
@@ -69,9 +94,14 @@ German: Basic
 
 ADDITIONAL INFORMATION 
 
-    • Talks and presentations at various conferences/meetings: Linux Cabal, KCD, CCOSS, FSL, PosaDev, GUGLAG, Pythonistas GDL, U de G, SSJ, Bsides Guadalajara.
-    • Open source contributions: Linux kernel, systemd, Debian Linux kernel package, ndctl, Intel QPL, various Clear Linux packages, including the Linux kernel package.
-    • Publications: Articles in specialized journals and conferences, book chapters.
-    • Professional Associations: Member of the IEEE.
-    • US patents: 10,609,205 B2, 10,938,977 B2, 11,516,336 B2.
-      
+  • Talks and presentations at various conferences/meetings as: Linux Cabal,
+    KCD, CCOSS, FSL, PosaDev, GUGLAG, Pythonistas GDL, U de G, SSJ, Bsides
+    Guadalajara.
+  • Open source contributions: Linux kernel, systemd, Debian Linux kernel
+    package, ndctl, Intel QPL, various Clear Linux packages, including the
+    Linux kernel package.
+  • Publications: Articles in specialized journals and conferences,
+    book chapters.
+  • Professional Associations: Member of the IEEE.
+  • US patents: 10,609,205 B2, 10,938,977 B2, 11,516,336 B2.
+
