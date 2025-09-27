@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><dc:title>NAME</dc:title><meta:initial-creator>SEAKES</meta:initial-creator><meta:editing-cycles>29</meta:editing-cycles><meta:print-date>2025-09-22T11:20:24.162550673</meta:print-date><meta:creation-date>2025-02-28T17:26:00</meta:creation-date><dc:date>2025-09-22T16:31:23.693723561</dc:date><meta:editing-duration>PT2H27M44S</meta:editing-duration><meta:generator>LibreOffice/24.2.7.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator><meta:printed-by>Archivos PDF</meta:printed-by><meta:document-statistic meta:table-count="1" meta:image-count="0" meta:object-count="0" meta:page-count="2" meta:paragraph-count="57" meta:word-count="491" meta:character-count="3883" meta:non-whitespace-character-count="3069"/><meta:user-defined meta:name="AppVersion">16.0000</meta:user-defined><meta:user-defined meta:name="Company">DBM</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal" xlink:href=""/></office:meta>
+ <office:meta><dc:title>NAME</dc:title><meta:initial-creator>SEAKES</meta:initial-creator><meta:editing-cycles>30</meta:editing-cycles><meta:print-date>2025-09-22T11:20:24.162550673</meta:print-date><meta:creation-date>2025-02-28T17:26:00</meta:creation-date><dc:date>2025-09-26T19:41:03.096067994</dc:date><meta:editing-duration>PT2H44M41S</meta:editing-duration><meta:generator>LibreOffice/24.2.7.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator><meta:printed-by>Archivos PDF</meta:printed-by><meta:document-statistic meta:table-count="1" meta:image-count="0" meta:object-count="0" meta:page-count="2" meta:paragraph-count="62" meta:word-count="523" meta:character-count="4080" meta:non-whitespace-character-count="3215"/><meta:user-defined meta:name="AppVersion">16.0000</meta:user-defined><meta:user-defined meta:name="Company">DBM</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal" xlink:href=""/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">22611</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">27166</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">13055</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">24201</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">16141</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">11236</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">2279</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">3845</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">47029</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">27164</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">13053</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">22611</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">24199</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">38751</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="ZoomFactor" config:type="short">180</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">130</config:config-item>
      <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
      <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
      <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
@@ -115,7 +115,7 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">wAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMArAAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6QTQARHVwbGV4Ok5vbmUAABIAQ09NUEFUX0RVUExFWF9NT0RFDwBEdXBsZXhNb2RlOjpPZmYMAFBSSU5URVJfTkFNRQ8AR2VuZXJpYyBQcmludGVyCwBEUklWRVJfTkFNRQcAU0dFTlBSVA==</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">wAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMArAAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFDwBEdXBsZXhNb2RlOjpPZmYMAFBSSU5URVJfTkFNRQ8AR2VuZXJpYyBQcmludGVyCwBEUklWRVJfTkFNRQcAU0dFTlBSVA==</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -139,7 +139,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">3074592</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">3200148</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -148,7 +148,9 @@
  </office:settings>
  <office:scripts>
   <office:script script:language="ooo:Basic">
-   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
   </office:script>
  </office:scripts>
  <office:font-face-decls>
@@ -169,7 +171,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0cm" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0cm" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="10pt" fo:language="es" fo:country="CL" style:letter-kerning="false" style:font-name-asian="Times New Roman1" style:font-size-asian="10pt" style:language-asian="es" style:country-asian="CL" style:font-name-complex="Times New Roman1" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
@@ -1096,38 +1098,58 @@
   </style:style>
   <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-   <style:text-properties style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1" style:font-size-complex="11pt"/>
+   <style:text-properties style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" officeooo:rsid="0021d3e7" officeooo:paragraph-rsid="0021d3e7" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-   <style:text-properties style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" officeooo:paragraph-rsid="0010d33c" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1" style:font-size-complex="11pt"/>
+   <style:text-properties style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" officeooo:paragraph-rsid="0010d33c" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" officeooo:paragraph-rsid="00135182" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1" style:font-size-complex="11pt"/>
+   <style:text-properties style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" officeooo:paragraph-rsid="0010d33c" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" officeooo:paragraph-rsid="00135182" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" officeooo:rsid="002b83aa" officeooo:paragraph-rsid="002b83aa" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="00080f2d" officeooo:paragraph-rsid="00080f2d" style:language-asian="en" style:country-asian="US"/>
-  </style:style>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties fo:language="en" fo:country="US" style:language-asian="en" style:country-asian="US"/>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" officeooo:rsid="001c4f64" officeooo:paragraph-rsid="0021d3e7" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:language="en" fo:country="US" style:language-asian="en" style:country-asian="US"/>
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" officeooo:rsid="0026c5c2" officeooo:paragraph-rsid="0026c5c2" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-   <style:text-properties fo:language="en" fo:country="US" style:language-asian="en" style:country-asian="US"/>
+   <style:text-properties style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="00120f24" officeooo:paragraph-rsid="0023e635" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:paragraph-rsid="0023e635" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="00080f2d" officeooo:paragraph-rsid="00080f2d" style:language-asian="en" style:country-asian="US"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties fo:language="en" fo:country="US" style:language-asian="en" style:country-asian="US"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:language="en" fo:country="US" style:language-asian="en" style:country-asian="US"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties fo:language="en" fo:country="US" style:language-asian="en" style:country-asian="US"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false">
     <style:tab-stops>
      <style:tab-stop style:position="16.51cm" style:type="right"/>
@@ -1135,7 +1157,7 @@
    </style:paragraph-properties>
    <style:text-properties fo:language="en" fo:country="US" style:language-asian="en" style:country-asian="US"/>
   </style:style>
-  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false">
     <style:tab-stops>
      <style:tab-stop style:position="16.51cm" style:type="right"/>
@@ -1143,43 +1165,55 @@
    </style:paragraph-properties>
    <style:text-properties fo:language="en" fo:country="US" officeooo:paragraph-rsid="0018c6cd" style:language-asian="en" style:country-asian="US"/>
   </style:style>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties fo:language="en" fo:country="US" officeooo:paragraph-rsid="0010d33c" style:language-asian="en" style:country-asian="US"/>
   </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties fo:language="en" fo:country="US" officeooo:paragraph-rsid="0010d33c" style:language-asian="en" style:country-asian="US"/>
   </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="0018c6cd" style:language-asian="en" style:country-asian="US"/>
   </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001c4f64" officeooo:paragraph-rsid="0021d3e7" style:language-asian="en" style:country-asian="US"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Arial" fo:font-size="9pt" fo:language="en" fo:country="US" officeooo:rsid="00214372" officeooo:paragraph-rsid="00214372" style:font-size-asian="9pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1"/>
   </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Arial" fo:font-size="9pt" fo:language="en" fo:country="US" officeooo:rsid="00080f2d" officeooo:paragraph-rsid="0025e7f0" style:font-size-asian="9pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1" style:font-size-complex="9pt"/>
   </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Arial" fo:font-size="9pt" fo:language="en" fo:country="US" officeooo:rsid="0018c6cd" officeooo:paragraph-rsid="0018c6cd" style:font-size-asian="9pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1"/>
   </style:style>
-  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Arial" fo:font-size="9pt" fo:language="en" fo:country="US" officeooo:rsid="0018c6cd" officeooo:paragraph-rsid="002b83aa" style:font-size-asian="9pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1"/>
   </style:style>
-  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Arial" fo:font-size="9pt" fo:language="en" fo:country="US" officeooo:rsid="001c4f64" officeooo:paragraph-rsid="001c4f64" style:font-size-asian="9pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1"/>
   </style:style>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Arial" fo:font-size="9pt" fo:language="en" fo:country="US" officeooo:rsid="002b83aa" officeooo:paragraph-rsid="002b83aa" style:font-size-asian="9pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1"/>
   </style:style>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Arial" fo:font-size="9pt" fo:language="en" fo:country="US" officeooo:rsid="002e8ec3" officeooo:paragraph-rsid="002e8ec3" style:font-size-asian="9pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1"/>
   </style:style>
-  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Arial" fo:font-size="9pt" fo:language="en" fo:country="US" officeooo:rsid="0019cbdf" officeooo:paragraph-rsid="0019cbdf" style:font-size-asian="9pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1"/>
   </style:style>
-  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.353cm" style:contextual-spacing="true" fo:line-height="115%"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Arial" fo:font-size="9pt" fo:language="en" fo:country="US" officeooo:rsid="001b93b4" officeooo:paragraph-rsid="001b93b4" style:font-size-asian="9pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1"/>
+  </style:style>
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-top="0cm" fo:margin-bottom="0.353cm" style:contextual-spacing="true" fo:line-height="115%" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Arial" fo:font-size="9pt" fo:language="en" fo:country="US" officeooo:rsid="001b93b4" officeooo:paragraph-rsid="001b93b4" style:font-size-asian="9pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1"/>
+  </style:style>
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false">
     <style:tab-stops>
      <style:tab-stop style:position="16.51cm" style:type="right"/>
@@ -1187,7 +1221,7 @@
    </style:paragraph-properties>
    <style:text-properties fo:color="#000000" loext:opacity="100%" fo:language="en" fo:country="US" officeooo:paragraph-rsid="0018c6cd" style:language-asian="en" style:country-asian="US"/>
   </style:style>
-  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false">
     <style:tab-stops>
      <style:tab-stop style:position="16.51cm" style:type="right"/>
@@ -1195,16 +1229,16 @@
    </style:paragraph-properties>
    <style:text-properties fo:color="#000000" loext:opacity="100%" fo:language="en" fo:country="US" officeooo:paragraph-rsid="002b83aa" style:language-asian="en" style:country-asian="US"/>
   </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties fo:color="#000000" loext:opacity="100%" fo:language="en" fo:country="US" officeooo:rsid="0018c6cd" officeooo:paragraph-rsid="0018c6cd" style:language-asian="en" style:country-asian="US"/>
   </style:style>
-  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties fo:color="#000000" loext:opacity="100%" fo:language="en" fo:country="US" officeooo:rsid="0018c6cd" officeooo:paragraph-rsid="002b83aa" style:language-asian="en" style:country-asian="US"/>
   </style:style>
-  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties fo:color="#000000" loext:opacity="100%" fo:language="en" fo:country="US" style:language-asian="en" style:country-asian="US"/>
   </style:style>
-  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false">
     <style:tab-stops>
      <style:tab-stop style:position="16.51cm" style:type="right"/>
@@ -1212,47 +1246,87 @@
    </style:paragraph-properties>
    <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-size="9pt" fo:language="en" fo:country="US" fo:font-weight="bold" officeooo:paragraph-rsid="0018c6cd" style:font-size-asian="9pt" style:language-asian="en" style:country-asian="US" style:font-weight-asian="bold" style:font-size-complex="9pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties fo:color="#7f7f7f" loext:opacity="100%" style:font-name="Arial" fo:font-size="9pt" fo:language="en" fo:country="US" style:font-size-asian="9pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1">
     <loext:char-complex-color loext:theme-type="dark1" loext:color-type="theme">
      <loext:transformation loext:type="tint" loext:value="4980"/>
     </loext:char-complex-color>
    </style:text-properties>
   </style:style>
-  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" officeooo:rsid="00214372" officeooo:paragraph-rsid="00214372" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1" style:font-size-complex="11pt"/>
-  </style:style>
-  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum9">
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum9">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.353cm" style:contextual-spacing="true" fo:line-height="115%"/>
    <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Arial" fo:font-size="9pt" fo:language="en" fo:country="US" officeooo:rsid="001b93b4" officeooo:paragraph-rsid="001b93b4" style:font-size-asian="9pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1"/>
   </style:style>
-  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum9">
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum9">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-top="0cm" fo:margin-bottom="0.353cm" style:contextual-spacing="true" fo:line-height="115%" fo:text-indent="0cm" style:auto-text-indent="false"/>
    <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Arial" fo:font-size="9pt" fo:language="en" fo:country="US" officeooo:rsid="001b93b4" officeooo:paragraph-rsid="001b93b4" style:font-size-asian="9pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1"/>
   </style:style>
-  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum1">
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum1">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" officeooo:rsid="0021d3e7" officeooo:paragraph-rsid="0021d3e7" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum1">
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" officeooo:rsid="0021d3e7" officeooo:paragraph-rsid="0021d3e7" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum1">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" officeooo:rsid="001c4f64" officeooo:paragraph-rsid="0021d3e7" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum1">
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" officeooo:rsid="0026c5c2" officeooo:paragraph-rsid="0026c5c2" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum1">
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-   <style:text-properties style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="00120f24" officeooo:paragraph-rsid="0023e635" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="11pt"/>
+   <style:text-properties style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" officeooo:rsid="0026c5c2" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum1">
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" officeooo:rsid="0026c5c2" officeooo:paragraph-rsid="0030d494" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" officeooo:paragraph-rsid="0010d33c" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:rsid="00120f24" officeooo:paragraph-rsid="0010d33c" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum1">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties style:font-name="Arial" fo:font-size="11pt" fo:language="en" fo:country="US" fo:font-weight="normal" officeooo:paragraph-rsid="0023e635" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum1">
+  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="Arial" fo:language="en" fo:country="US" fo:font-weight="bold" style:language-asian="en" style:country-asian="US" style:font-weight-asian="bold" style:font-name-complex="Arial1"/>
+  </style:style>
+  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum1">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="001c4f64" officeooo:paragraph-rsid="0021d3e7" style:language-asian="en" style:country-asian="US"/>
+  </style:style>
+  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties fo:language="en" fo:country="US" officeooo:paragraph-rsid="0010d33c" style:language-asian="en" style:country-asian="US"/>
+  </style:style>
+  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Arial" fo:font-size="9pt" fo:language="en" fo:country="US" officeooo:rsid="00080f2d" style:font-size-asian="9pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Arial" fo:font-size="9pt" fo:language="en" fo:country="US" officeooo:rsid="00080f2d" officeooo:paragraph-rsid="0025e7f0" style:font-size-asian="9pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Arial" fo:font-size="9pt" fo:language="en" fo:country="US" officeooo:rsid="00080f2d" officeooo:paragraph-rsid="0025e7f0" style:font-size-asian="9pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1" style:font-size-complex="9pt"/>
+  </style:style>
+  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Arial" fo:font-size="9pt" fo:language="en" fo:country="US" officeooo:rsid="001b93b4" style:font-size-asian="9pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1"/>
+  </style:style>
+  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Arial" fo:font-size="9pt" fo:language="en" fo:country="US" officeooo:rsid="001b93b4" officeooo:paragraph-rsid="0030d494" style:font-size-asian="9pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Arial1"/>
+  </style:style>
+  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:language="en" fo:country="US" officeooo:rsid="0018c6cd" officeooo:paragraph-rsid="002b83aa" style:language-asian="en" style:country-asian="US"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties style:font-name="Arial" fo:font-weight="bold" style:font-weight-asian="bold" style:font-name-complex="Arial1" style:font-weight-complex="bold"/>
@@ -1344,6 +1418,9 @@
   <style:style style:name="T30" style:family="text">
    <style:text-properties officeooo:rsid="002cf8f0"/>
   </style:style>
+  <style:style style:name="T31" style:family="text">
+   <style:text-properties officeooo:rsid="0030d494"/>
+  </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="1.778cm" fo:margin-bottom="2.54cm" fo:margin-left="2.54cm" fo:margin-right="2.54cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="37" style:layout-grid-base-height="0.635cm" style:layout-grid-ruby-height="0cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:layout-grid-base-width="0.423cm" style:layout-grid-snap-to="true" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
     <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
@@ -1373,7 +1450,7 @@
     <table:table-column table:style-name="Tabla1.A" table:number-columns-repeated="2"/>
     <table:table-row table:style-name="Tabla1.1">
      <table:table-cell table:style-name="Tabla1.A1" office:value-type="string">
-      <text:p text:style-name="P17"><text:span text:style-name="T2">+52 </text:span><text:span text:style-name="T1">33 0000 0000</text:span></text:p>
+      <text:p text:style-name="P22"><text:span text:style-name="T2">+52 </text:span><text:span text:style-name="T1">33 0000 0000</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tabla1.A1" office:value-type="string">
       <text:p text:style-name="P3">miguel.bernal.marin@gmail.com</text:p>
@@ -1388,108 +1465,91 @@
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:h text:style-name="P18" text:outline-level="1"><text:span text:style-name="T3"><text:s text:c="333"/></text:span><text:span text:style-name="T4">OBJECTIVE</text:span></text:h>
-   <text:p text:style-name="P19"/>
-   <text:p text:style-name="P26">Software Engineer</text:p>
-   <text:p text:style-name="P40"/>
+   <text:h text:style-name="P23" text:outline-level="1"><text:span text:style-name="T3"><text:s text:c="333"/></text:span><text:span text:style-name="T4">OBJECTIVE</text:span></text:h>
+   <text:p text:style-name="P24"/>
+   <text:p text:style-name="P32">Senior Software Engineer</text:p>
+   <text:p text:style-name="P48"/>
    <text:h text:style-name="P9" text:outline-level="1">SUMMARY</text:h>
-   <text:p text:style-name="P20"/>
-   <text:p text:style-name="P27">• Highly skilled professional with a proven track record of over 15 years in Linux system administration and engineering, including programming (C/C++, Python, Java), web development (HTML, CSS, JavaScript), automation and scripting (DevOps), project packaging (RPM, DEB), and IT troubleshooting.</text:p>
-   <text:p text:style-name="P27">• Knowledge of container management (Docker, Podman, LXC) and virtual machines (Qemu/KVM), and use of various commercial cloud providers (AWS, Google Cloud, Azure).</text:p>
-   <text:p text:style-name="P27">• Experience contributing using GIT to free and open source software projects, compiling and modifying the Linux kernel, using various Linux distributions, and automating software processes.</text:p>
-   <text:p text:style-name="P27">• Expertise in knowledge dissemination through national and international courses and presentations, with a focus on mentoring and training technical personnel.</text:p>
-   <text:p text:style-name="P27">• Skilled in managing software projects with the latest cloud technologies.</text:p>
-   <text:p text:style-name="P27">• Member of the National System of Researchers (SNII) with several published articles and patents. Professor of undergraduate and graduate programs at various universities.</text:p>
-   <text:p text:style-name="P27"/>
+   <text:p text:style-name="P63"/>
+   <text:p text:style-name="P64">• Highly skilled professional with a proven track record of over 15 years in Linux system administration and engineering, including programming (C/C++, Python, Java), web development (HTML, CSS, JavaScript), automation and scripting (DevOps), project packaging (RPM, DEB), and IT troubleshooting.</text:p>
+   <text:p text:style-name="P64"/>
+   <text:p text:style-name="P64">• Knowledge of container management (Docker, Podman, LXC) and virtual machines (Qemu/KVM), and use of various commercial cloud providers (AWS, Google Cloud, Azure).</text:p>
+   <text:p text:style-name="P64"/>
+   <text:p text:style-name="P64">• Experience contributing using GIT to free and open source software projects, compiling and modifying the Linux kernel, using various Linux distributions, and automating software processes.</text:p>
+   <text:p text:style-name="P64"/>
+   <text:p text:style-name="P64">• Shared expertise across national and international audiences by teaching specialized courses and presentation, with a focus on mentoring and training technical staff and the general public.</text:p>
+   <text:p text:style-name="P64"/>
+   <text:p text:style-name="P64">• Skilled in managing software projects with the latest cloud technologies.</text:p>
+   <text:p text:style-name="P64"/>
+   <text:p text:style-name="P64">• Member of the Mexican National System of Researchers (SNII) with several published articles and patents. Professor of undergraduate and graduate programs at various universities.</text:p>
+   <text:p text:style-name="P33"/>
    <text:h text:style-name="P9" text:outline-level="1">EXPERIENCE</text:h>
-   <text:p text:style-name="P19"/>
-   <text:p text:style-name="P21"><text:span text:style-name="T12">Intel</text:span><text:span text:style-name="T11">,</text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T5">Zapopan</text:span><text:span text:style-name="T3">, </text:span><text:span text:style-name="T5">M</text:span><text:span text:style-name="T6">e</text:span><text:span text:style-name="T5">xico</text:span><text:span text:style-name="T3"><text:tab/></text:span><text:span text:style-name="T12">2011 - 2025</text:span></text:p>
+   <text:p text:style-name="P24"/>
+   <text:p text:style-name="P26"><text:span text:style-name="T12">Intel</text:span><text:span text:style-name="T11">,</text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T5">Zapopan</text:span><text:span text:style-name="T3">, </text:span><text:span text:style-name="T5">M</text:span><text:span text:style-name="T6">e</text:span><text:span text:style-name="T5">xico</text:span><text:span text:style-name="T3"><text:tab/></text:span><text:span text:style-name="T12">2011 - 2025</text:span></text:p>
    <text:p text:style-name="P8">Linux OS Engineering Area</text:p>
-   <text:h text:style-name="P23" text:outline-level="2"><text:span text:style-name="T6">OS Development Engineer</text:span><text:span text:style-name="T3">, </text:span><text:span text:style-name="T14">2021 – 2025</text:span></text:h>
-   <text:p text:style-name="P10">Enabling the new Intel key features on Debian Linux kernel package.</text:p>
-   <text:p text:style-name="P11"/>
-   <text:list text:style-name="WWNum1">
-    <text:list-item>
-     <text:p text:style-name="P44">18+ contribution to the Debian Linux kernel package.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P44">Enabling 3 internal validation tools to be able to run on Debian.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P49"><text:span text:style-name="T3">Developed a Python application that accelerated deployment time by 50% </text:span><text:span text:style-name="T7">which </text:span><text:span text:style-name="T3">automated </text:span><text:span text:style-name="T7">the </text:span><text:span text:style-name="T3">test station configuration.</text:span></text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P45">Wrote Bash scripts to automate container configuration for project development and testing.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P46">Build internal CentOS 8 packages and automating them using GitHub Actions.</text:p>
-    </text:list-item>
-   </text:list>
-   <text:h text:style-name="P23" text:outline-level="2"><text:span text:style-name="T8">S</text:span><text:span text:style-name="T9">oftware </text:span><text:span text:style-name="T8">Engineer</text:span><text:span text:style-name="T3">, </text:span><text:span text:style-name="T15">2014</text:span><text:span text:style-name="T13"> – </text:span><text:span text:style-name="T15">2021</text:span></text:h>
-   <text:p text:style-name="P24"><text:span text:style-name="T15">Leader of the Linux kernel package development and maintenance team f</text:span><text:span text:style-name="T16">rom</text:span><text:span text:style-name="T15"> the Clear Linux distribution.</text:span></text:p>
+   <text:h text:style-name="P28" text:outline-level="2"><text:span text:style-name="T6">OS Development Engineer</text:span><text:span text:style-name="T3">, </text:span><text:span text:style-name="T14">2021 – 2025</text:span></text:h>
+   <text:p text:style-name="P11">Enabling the new Intel key features on Debian Linux kernel package and create CentOS packages for testing.</text:p>
+   <text:p text:style-name="P55"/>
+   <text:p text:style-name="P19">• 18+ contribution to the Debian Linux kernel package.</text:p>
+   <text:p text:style-name="P19">• Enabling 3 internal validation tools to be able to run on Debian.</text:p>
+   <text:p text:style-name="P56">• Developed a Python application that accelerated deployment time by 50% by automatically </text:p>
+   <text:p text:style-name="P56"><text:span text:style-name="T31"><text:s text:c="2"/>c</text:span>onfiguring the system under test (SUT) .</text:p>
+   <text:p text:style-name="P19">• Wrote Bash scripts to automate container configuration for project development and testing.</text:p>
+   <text:p text:style-name="P19">• Build internal CentOS packages and automating them using GitHub Actions.</text:p>
+   <text:p text:style-name="P19"/>
+   <text:h text:style-name="P28" text:outline-level="2"><text:span text:style-name="T8">S</text:span><text:span text:style-name="T9">oftware </text:span><text:span text:style-name="T8">Engineer</text:span><text:span text:style-name="T3">, </text:span><text:span text:style-name="T15">2014</text:span><text:span text:style-name="T13"> – </text:span><text:span text:style-name="T15">2021</text:span></text:h>
+   <text:p text:style-name="P29"><text:span text:style-name="T15">Leader of the Linux kernel package development and maintenance team from the Clear Linux distribution.</text:span></text:p>
+   <text:p text:style-name="P29"><text:span text:style-name="T15"/></text:p>
+   <text:p text:style-name="P58">• Fully automated (without human intervention) the update of six</text:p>
+   <text:p text:style-name="P58"><text:s text:c="2"/>kernel packages for the Clear Linux distribution.</text:p>
+   <text:p text:style-name="P58">• Trained and developed my team&apos;s Linux knowledge.</text:p>
+   <text:p text:style-name="P58">• Maintained and enabled several packages for the Clear Linux distribution.</text:p>
+   <text:p text:style-name="P58">• Contribute to open source projects for include Clear Linux OS structure.</text:p>
+   <text:p text:style-name="P58"/>
+   <text:h text:style-name="P28" text:outline-level="2"><text:soft-page-break/><text:span text:style-name="T10">Graphics Software Engineer</text:span><text:span text:style-name="T3">, </text:span><text:span text:style-name="T17">2011</text:span><text:span text:style-name="T13"> – </text:span><text:span text:style-name="T17">2014</text:span></text:h>
+   <text:p text:style-name="P13">Developer and tester for Intel graphics cards using virtualization and Microsoft WHQL.</text:p>
    <text:p text:style-name="P13"/>
-   <text:list text:continue-numbering="true" text:style-name="WWNum1">
-    <text:list-item>
-     <text:p text:style-name="P47">Fully automated (without human intervention) the update of six kernel packages for the Clear Linux distribution.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P48">Trained and developed my team&apos;s Linux knowledge.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P47">Maintained and enabled several packages for the Clear Linux distribution.</text:p>
-    </text:list-item>
-   </text:list>
-   <text:h text:style-name="P23" text:outline-level="2"><text:span text:style-name="T10">Graphics Software Engineer</text:span><text:span text:style-name="T3">, </text:span><text:span text:style-name="T17">2011</text:span><text:span text:style-name="T13"> – </text:span><text:span text:style-name="T17">2014</text:span></text:h>
-   <text:p text:style-name="P12">Developer and test<text:span text:style-name="T27">er</text:span> for Intel graphics cards using virtualization and development platforms.</text:p>
-   <text:p text:style-name="P12"/>
-   <text:p text:style-name="P12">• Automated graphics validation using Linux scripts, reducing workload by 70%.</text:p>
-   <text:p text:style-name="P12">• Intel graphics cards <text:span text:style-name="T27">tester </text:span>on Android platforms.</text:p>
-   <text:p text:style-name="P12">• <text:span text:style-name="T27">Use the </text:span>Microsoft DirectX 9 testing API <text:span text:style-name="T27">to develop and testing</text:span>.</text:p>
-   <text:p text:style-name="P14"/>
+   <text:p text:style-name="P13">• Automated graphics validation using Linux scripts, reducing workload by 70%.</text:p>
+   <text:p text:style-name="P13">• Intel graphics cards tester on Android platforms.</text:p>
+   <text:p text:style-name="P13">• Use the Microsoft DirectX 9 testing API and the WHQL to develop and testing.</text:p>
    <text:p text:style-name="P15"/>
-   <text:h text:style-name="P16" text:outline-level="1"><text:soft-page-break/>EDUCATION</text:h>
-   <text:p text:style-name="P25"/>
-   <text:p text:style-name="P34"><text:span text:style-name="T19">PhD. in Electric Engineering</text:span><text:span text:style-name="T18"><text:tab/></text:span><text:span text:style-name="T20">20</text:span><text:span text:style-name="T21">1</text:span><text:span text:style-name="T18">2</text:span></text:p>
-   <text:p text:style-name="P28"><text:span text:style-name="T28">Study area</text:span>: <text:span text:style-name="T28">Robotics and computer vision.</text:span></text:p>
-   <text:p text:style-name="P30"><text:span text:style-name="T28">Research stay</text:span>: Fraunhofer IITB <text:span text:style-name="T28">Institute</text:span>, Karlsruhe, <text:span text:style-name="T28">Germany</text:span>, 2008</text:p>
-   <text:p text:style-name="P31">Research and Advanced Study Center from IPN (CINVESTAV)</text:p>
-   <text:p text:style-name="P36"><text:span text:style-name="T22"/></text:p>
-   <text:p text:style-name="P35"><text:span text:style-name="T19">M.Sc. in Electric Engineering</text:span><text:span text:style-name="T18"><text:tab/></text:span><text:span text:style-name="T20">20</text:span><text:span text:style-name="T18">0</text:span><text:span text:style-name="T21">7</text:span></text:p>
-   <text:p text:style-name="P29"><text:span text:style-name="T28">Study area</text:span>: <text:span text:style-name="T28">Robotics and computer vision.</text:span></text:p>
-   <text:p text:style-name="P31">Research and Advanced Study Center from IPN (CINVESTAV)</text:p>
-   <text:p text:style-name="P37"><text:span text:style-name="T22"/></text:p>
-   <text:p text:style-name="P36"><text:span text:style-name="T22"/></text:p>
-   <text:p text:style-name="P39"><text:span text:style-name="T24">Bachelor’s Degree in Mathematics</text:span><text:span text:style-name="T23"><text:tab/></text:span><text:span text:style-name="T25">20</text:span><text:span text:style-name="T26">02</text:span></text:p>
-   <text:p text:style-name="P28"><text:span text:style-name="T29">Specialization</text:span>: <text:span text:style-name="T29">Math computing </text:span></text:p>
-   <text:p text:style-name="P28">Guadalajara’<text:span text:style-name="T29">s University</text:span></text:p>
-   <text:p text:style-name="P38"/>
-   <text:p text:style-name="P22"/>
+   <text:p text:style-name="P16"/>
+   <text:h text:style-name="P17" text:outline-level="1">EDUCATION</text:h>
+   <text:p text:style-name="P30"/>
+   <text:p text:style-name="P42"><text:span text:style-name="T19">PhD. in Electric Engineering</text:span><text:span text:style-name="T18"><text:tab/></text:span><text:span text:style-name="T20">20</text:span><text:span text:style-name="T21">1</text:span><text:span text:style-name="T18">2</text:span></text:p>
+   <text:p text:style-name="P34"><text:span text:style-name="T28">Study area</text:span>: <text:span text:style-name="T28">Robotics and computer vision.</text:span></text:p>
+   <text:p text:style-name="P36"><text:span text:style-name="T28">Research stay</text:span>: Fraunhofer IITB <text:span text:style-name="T28">Institute</text:span>, Karlsruhe, <text:span text:style-name="T28">Germany</text:span>, 2008</text:p>
+   <text:p text:style-name="P37">Research and Advanced Study Center from IPN (CINVESTAV)</text:p>
+   <text:p text:style-name="P44"><text:span text:style-name="T22"/></text:p>
+   <text:p text:style-name="P43"><text:span text:style-name="T19">M.Sc. in Electric Engineering</text:span><text:span text:style-name="T18"><text:tab/></text:span><text:span text:style-name="T20">20</text:span><text:span text:style-name="T18">0</text:span><text:span text:style-name="T21">7</text:span></text:p>
+   <text:p text:style-name="P35"><text:span text:style-name="T28">Study area</text:span>: <text:span text:style-name="T28">Robotics and computer vision.</text:span></text:p>
+   <text:p text:style-name="P37">Research and Advanced Study Center from IPN (CINVESTAV)</text:p>
+   <text:p text:style-name="P45"><text:span text:style-name="T22"/></text:p>
+   <text:p text:style-name="P47"><text:span text:style-name="T24">Bachelor’s Degree in Mathematics</text:span><text:span text:style-name="T23"><text:tab/></text:span><text:span text:style-name="T25">20</text:span><text:span text:style-name="T26">02</text:span></text:p>
+   <text:p text:style-name="P34"><text:span text:style-name="T29">Specialization</text:span>: <text:span text:style-name="T29">Math computing </text:span></text:p>
+   <text:p text:style-name="P34">Guadalajara’<text:span text:style-name="T29">s University</text:span></text:p>
+   <text:p text:style-name="P46"/>
+   <text:p text:style-name="P27"/>
    <text:p text:style-name="P4">LANGUAGES</text:p>
-   <text:p text:style-name="P19"/>
-   <text:p text:style-name="P32">Spanish: Native</text:p>
-   <text:p text:style-name="P33"><text:span text:style-name="T30">English</text:span>: <text:span text:style-name="T30">Fluent</text:span></text:p>
-   <text:p text:style-name="P33"><text:span text:style-name="T30">German</text:span>: <text:span text:style-name="T30">Basic</text:span></text:p>
-   <text:p text:style-name="P32"/>
+   <text:p text:style-name="P24"/>
+   <text:p text:style-name="P38">Spanish: Native</text:p>
+   <text:p text:style-name="P39"><text:span text:style-name="T30">English</text:span>: <text:span text:style-name="T30">Fluent</text:span></text:p>
+   <text:p text:style-name="P39"><text:span text:style-name="T30">German</text:span>: <text:span text:style-name="T30">Basic</text:span></text:p>
    <text:p text:style-name="P38"/>
-   <text:p text:style-name="P5"><text:span text:style-name="T30">ADDITIONAL INFORMATION</text:span> </text:p>
-   <text:p text:style-name="P19"/>
+   <text:p text:style-name="P46"/>
+   <text:p text:style-name="P5"><text:span text:style-name="T30">ADDITIONAL INFORMATION</text:span></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P67">• Talks and presentations at various conferences/meetings as: Linux Cabal, KCD, CCOSS, FSL, PosaDev, GUGLAG, </text:p>
+   <text:p text:style-name="P67"><text:s text:c="3"/>Pythonistas GDL, U de G, SSJ, Bsides Guadalajara.</text:p>
+   <text:p text:style-name="P67">• Open source contributions: Linux kernel, systemd, Debian Linux kernel package, ndctl, Intel QPL, various Clear</text:p>
+   <text:p text:style-name="P67"><text:s text:c="3"/>Linux packages, including the Linux kernel package.</text:p>
+   <text:p text:style-name="P66">• Publications: Articles in specialized journals and conferences, book chapters.</text:p>
+   <text:p text:style-name="P66">• Professional Associations: Member of the IEEE.</text:p>
+   <text:p text:style-name="P66">• US patents: 10,609,205 B2, 10,938,977 B2, 11,516,336 B2.</text:p>
    <text:list text:style-name="WWNum9">
-    <text:list-item>
-     <text:p text:style-name="P42">Talks and presentations at various conferences/meetings: Linux Cabal, KCD, CCOSS, FSL, PosaDev, GUGLAG, Pythonistas GDL, U de G, SSJ, Bsides Guadalajara.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P42">Open source contributions: Linux kernel, systemd, Debian Linux kernel package, ndctl, Intel QPL, various Clear Linux packages, including the Linux kernel package.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P42">Publications: Articles in specialized journals and conferences, book chapters.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P42">Professional Associations: Member of the IEEE.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P42">US patents: 10,609,205 B2, 10,938,977 B2, 11,516,336 B2.</text:p>
-     <text:p text:style-name="P43"/>
-    </text:list-item>
+    <text:list-header>
+     <text:p text:style-name="P50"/>
+    </text:list-header>
    </text:list>
   </office:text>
  </office:body>
