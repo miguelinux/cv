@@ -1,0 +1,20 @@
+Miguel Bernal Marin estudió la licenciatura en matemáticas en la
+Universidad de Guadalajara, después ingresó a la maestría en ciencias de la
+computación en el Centro de Investigación y de Estudios Avanzados del IPN
+(CINVESTAV) unidad Guadalajara, en donde también realizo su doctorado en
+ciencias con especialidad en robótica y visión computacional.
+
+Trabajó en la empresa Intel en la creación y mantenimiento de la distribución
+de Linux llamada: Clear Linux. Dentro de Intel colaboró y contribuyó a varios
+proyectos de código libre y abierto (open source) y habilitó las nuevas
+características del procesadores Intel en la distribución Debian.
+
+Además, Miguel Bernal Marin es Miembro del Sistema Nacional de Investigadores
+de México (SNII) con una trayectoria consolidada que incluye cinco
+publicaciones en congresos internacionales, dos artículos en revistas
+especializadas, un capítulo de libro y tres patentes estadounidenses.
+Actualmente se desempeña como profesor en programas de licenciatura y posgrado
+en el Instituto Tecnológico José Mario Molina Pasquel y Henríquez (TecMM),
+también conocido como Tecnológico Superior de Jalisco (TSJ)
+
+Por mi afición a Linux sus compañeros lo conocen como miguelinux.
