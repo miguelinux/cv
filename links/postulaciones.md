@@ -4,6 +4,10 @@
 
 # APPLIED
 
+## Microsoft
+  *  https://jobs.careers.microsoft.com/global/en/job/1898122/Senior-Software-Engineer%2C-Linux-Kernel
+    - Senior Software Engineer, Linux Kernel (Job number:1898122)
+
 ## Canonical
 
   * https://canonical.com/careers/2413329
