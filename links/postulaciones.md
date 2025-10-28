@@ -1,6 +1,10 @@
 # TODO
 
-  * Micron
+## Micron
+
+## Google
+
+  * https://www.google.com/about/careers/applications/jobs/results/135679356193120966-software-engineer-iii-full-stack-learning-and-education?location=Mexico&q=Linux&degree=DOCTORATE#!t=jo&jid=127025001&
 
 # APPLIED
 
