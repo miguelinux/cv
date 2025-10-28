@@ -8,10 +8,6 @@
 
 # APPLIED
 
-## SUSE
-
-  * https://suse.wd3.myworkdayjobs.com/en-US/Jobsatsuse/job/Sr-Software-Engineer-Go--Virtualization_71007267
-
 ## Microsoft
 
   *  https://jobs.careers.microsoft.com/global/en/job/1898122/Senior-Software-Engineer%2C-Linux-Kernel
@@ -32,4 +28,14 @@
 ## Luxoft
 
   * https://career.luxoft.com/jobs/senior-software-developer-ai-expert-18704
+
+# Prompts
+
+Quiero que actues como un experto de reclutamiento y selección y basandote en
+los filtros ATS me indiques el porcentaje de compatibilidad de mi CV tiene con
+la bacante que te voy a detallar
+...
+hazme ahora la compatibilidad con este otro:
+...
+
 
