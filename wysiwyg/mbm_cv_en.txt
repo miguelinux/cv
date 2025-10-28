@@ -29,7 +29,8 @@ SUMMARY
   specialized courses and presentation, with a focus on mentoring and
   training technical staff and the general public.
 
-• Skilled in managing software projects with the latest cloud technologies.
+• Expert in building and maintaining core Linux infrastructure components
+  and developer platforms at scale, including kernel and package management.
 
 • Member of the Mexican National System of Researchers (SNII) with
   an established record, including 5 international conference publications,
@@ -59,8 +60,9 @@ Software Engineer, 2014 – 2021
 Leader of the Linux kernel package development and maintenance team from
 the Clear Linux distribution.
 
-• Fully automated (without human intervention) the update of six
-  kernel packages for the Clear Linux distribution.
+• Lead the design and architecture of the automated kernel update process
+  (without human intervention) of six kernel packages for the Clear Linux
+  distribution.
 • Trained and developed my team's Linux knowledge.
 • Maintained and enabled several packages for the Clear Linux distribution.
 • Contribute to open source projects for include Clear Linux OS structure.
