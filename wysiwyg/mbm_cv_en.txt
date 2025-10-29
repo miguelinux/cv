@@ -52,8 +52,8 @@ CentOS packages for testing.
 • Enabling 3 internal validation tools to be able to run on Debian.
 • Developed a Python application that accelerated deployment time by 50%
   by automatically configuring the system under test (SUT) .
-• Wrote Bash scripts to automate container configuration for project
-  development and testing.
+• Developed Bash scripts to automate secure container configuration for
+  project development and testing.
 • Build internal CentOS packages and automating them using GitHub Actions.
 
 Software Engineer, 2014 – 2021
@@ -63,6 +63,8 @@ the Clear Linux distribution.
 • Lead the design and architecture of the automated kernel update process
   (without human intervention) of six kernel packages for the Clear Linux
   distribution.
+• Contribute to the clr-boot-manager which uses systemd-boot to boot Clear
+  Linux kernel using UEFI.
 • Trained and developed my team's Linux knowledge.
 • Maintained and enabled several packages for the Clear Linux distribution.
 • Contribute to open source projects for include Clear Linux OS structure.

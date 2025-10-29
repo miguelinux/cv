@@ -2,6 +2,9 @@
 
 ## Micron
 
+## Canonical
+  * https://canonical.com/careers/5142887
+
 ## Google
 
   * https://www.google.com/about/careers/applications/jobs/results/135679356193120966-software-engineer-iii-full-stack-learning-and-education?location=Mexico&q=Linux&degree=DOCTORATE#!t=jo&jid=127025001&
@@ -31,7 +34,7 @@
 
 # Prompts
 
-Quiero que actues como un experto de reclutamiento y selección y basandote en
+Quiero que actúes como un experto de reclutamiento y selección y basándote en
 los filtros ATS me indiques el porcentaje de compatibilidad de mi CV tiene con
 la bacante que te voy a detallar
 ...
