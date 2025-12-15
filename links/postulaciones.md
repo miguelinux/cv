@@ -22,11 +22,6 @@
 
   * https://www.ust.com/en/jobsearch#jobid=45015
 
-## Qualcomm
-
-  * https://careers.qualcomm.com/careers?pid=446715213866&location=remote&recommended=1
-    - ID: 3080829
-
 ## Nortal
 
   * https://careers-us-nortal.icims.com/jobs/4783/sr.-systems-engineer/job
@@ -36,19 +31,10 @@
   *  https://jobs.careers.microsoft.com/global/en/job/1898122/Senior-Software-Engineer%2C-Linux-Kernel
     - Senior Software Engineer, Linux Kernel (Job number:1898122)
 
-## Canonical
-
-  * https://canonical.com/careers/2413329
 
 ## GlobalLogic
 
   * https://www.globallogic.com/latam/careers/senior-linux-software-engineer-irc274955/
-
-## Red Hat
-
-## Akamai
-
-  * https://jobs.akamai.com/en/sites/CX_1/my-profile/preview/1359
 
 ## Roost
 
@@ -66,6 +52,11 @@
 ## Intel
   * https://intel.wd1.myworkdayjobs.com/en-US/External/userHome
     - JR0277801
+
+
+## Nvidia
+  * https://nvidia.eightfold.ai/careers/job?pid=893382582078
+  * https://nvidia.eightfold.ai/careers/job?pid=893378635299
 
 # Prompts
 
